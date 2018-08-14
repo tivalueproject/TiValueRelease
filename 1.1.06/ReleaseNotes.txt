@@ -1,0 +1,15 @@
+﻿ReleaseNoets
+
+version 1.1.06
+
+
+[English]
+new contract asset ACS supported. with UI update(UI is only for windows.)
+if you are a new user, download TVWallet_win_v1.1.06.zip and unzip it to a new folder, and run TVWallet1.1.06.exe
+if you are an old user currentlly using 1.1.02, just download TVWallet_UI_win_v1.1.06.zip and unzip it into your current tiValue floder, and run TVWallet1.1.06.exe.
+
+
+[中文]
+支持新的合约资产ACS(车链)。UI更新（UI仅支持windows）
+如果你是新用户，下载 TVWallet_win_v1.1.06.zip并解压到一个新目录，并运行TVWallet1.1.06.exe
+如果你是已经在使用1.1.02的老用户，只需要下载 TVWallet_win_v1.1.06.zip并解压到你当前的tiValue目录，并运行TVWallet1.1.06.exe
