@@ -1,0 +1,15 @@
+ReleaseNotes
+
+version 1.2.0
+
+
+[English]
+new contract asset NOT supported. with UI update(UI is only for windows.)
+if you are a new user, download TVWallet_UI_win_1.2.0.zip and unzip it to a new folder, and run TVWallet1.2.0.exe
+if you are an old user currentlly using 1.1.02 or above, just download TVWallet_UI_win_1.2.0.zip and unzip it into your current tiValue floder, and run TVWallet1.2.0.exe.
+
+
+[中文]
+支持新的合约资产NOT。UI更新（UI仅支持windows）
+如果你是新用户，下载 TVWallet_UI_win_1.2.0.zip并解压到一个新目录，并运行TVWallet1.2.0.exe
+如果你是已经在使用1.1.02以上的老用户，只需要下载 TVWallet_UI_win_1.2.0.zip并解压到你当前的tiValue目录，并运行TVWallet1.2.0.exe。
